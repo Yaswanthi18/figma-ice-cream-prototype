@@ -1,1 +1,1 @@
-# figma-ice-cream-prototype
+created an ice ccream prototype uing figma
